@@ -31,13 +31,8 @@ DataStore - For local storage
 
 **ScreenShots**
 
-![Home](https://user-images.githubusercontent.com/33326079/138370846-eb7032a8-0ab0-4141-91f1-c9d1208d2ce1.PNG)
+![image](https://user-images.githubusercontent.com/33326079/223676978-6c406bdf-a50b-4588-835d-cc2b23d851fd.png)
 
-![Characters](https://user-images.githubusercontent.com/33326079/138370851-db0c461b-3d6f-44c5-a8b5-71bf8d128eaa.PNG)
-
-![Search](https://user-images.githubusercontent.com/33326079/138370856-c5efa5b4-6e44-4202-b81d-f520734916ee.PNG)
-
-![Filter](https://user-images.githubusercontent.com/33326079/138370858-07fd2827-6454-456a-8bb0-26d2ebb20bce.PNG)
 
 Using on your device-
 For api version 31 or less just install in your device.

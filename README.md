@@ -31,7 +31,7 @@ DataStore - For local storage
 
 **ScreenShots**
 
-![image](https://user-images.githubusercontent.com/33326079/223676978-6c406bdf-a50b-4588-835d-cc2b23d851fd.png)
+![image](https://user-images.githubusercontent.com/33326079/223677448-b50ec93a-c233-4029-bd94-0d431ea9cf4a.png)
 
 
 Using on your device-
